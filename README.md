@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="./svg/stevenDev.svg" width="1200" alt="stevenDev" />
 </a>
@@ -51,11 +50,26 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
+
 <div align=center>
   <a href="#" title="StevenDev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventranX&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steventranx&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" alt = 'my-languages' />
   </a>
 </div>
+
+<h2 align = "center">😊 About me 😊 </h2>
+
+Hi there ! My name is **Trần Trọng Tín**, you might call me Steven for short, I really passionate about `Web development`, especially `front end`.
+
+Before I switched to technology industry , I used to be an English teacher, I had been teaching for more than 5 years.
+
+By chance ,I found that I'm extremely interested in website development and to be a front end dev is nothing out of my range. Therefore, I decided to change my major, it was the toughest decision until now. 😀
+
+I have just known and studied about this technology field for 1 year . In my short time there, I've already contributed to over a dozen projects & mini-projects and my most interested one is [Shopee_Clone](https://github.com/StevenTranX/Shopee_Clone_Typescript-) projects written by **Typescript**
+
+But I think it's time for me to move on.
+
+Ideally, I would like to learn more and more from seniors so that I could contribute lots of value in this software engineering for my future company as well as the comunity
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -80,5 +94,5 @@
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
-  <img src="svg/stevenQuote.svg" width="846" height="150" alt="trungquandev-official" />
+  <img src="svg/stevenQuotes.svg" width="846" height="150" alt="steven" />
 </a>
