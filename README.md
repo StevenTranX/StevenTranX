@@ -59,7 +59,7 @@
 
 <h2 align = "center">😊 About me 😊 </h2>
 
-Hi there ! My name is **Trần Trọng Tín**, you might call me Steven for short, I really passionate about `Web development`, especially `front end`.
+<span style = "font-size:16px">Hi there ! My name is **Trần Trọng Tín**, you might call me Steven for short, I really passionate about `Web development`, especially `front end`.
 
 Before I switched to technology industry , I used to be an English teacher, I had been teaching for more than 5 years.
 
@@ -70,6 +70,7 @@ I have just known and studied about this technology field for 1 year . In my sho
 But I think it's time for me to move on.
 
 Ideally, I would like to learn more and more from seniors so that I could contribute lots of value in this software engineering for my future company as well as the comunity
+</span>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
