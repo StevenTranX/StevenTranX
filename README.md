@@ -59,7 +59,7 @@
 
 <h2 align = "center">😊 About me 😊 </h2>
 
-<span style = "font-size:16px">Hi there ! My name is **Trần Trọng Tín**, you might call me Steven for short, I really passionate about `Web development`, especially `front end`.
+<span style = "font-size:20px">Hi there ! My name is **Trần Trọng Tín**, you might call me Steven for short, I really passionate about `Web development`, especially `front end`.
 
 Before I switched to technology industry , I used to be an English teacher, I had been teaching for more than 5 years.
 
